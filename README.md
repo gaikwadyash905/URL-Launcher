@@ -50,29 +50,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE "Licen
 
 
 ## Contributing
-We welcome contributions from the community! If you have an idea for a feature, bug fix, or improvement, we’d love to hear from you. Here’s how you can contribute:
-
-1. Fork the repository: Click the "Fork" button at the top right of this page to create a copy of this repository on your GitHub account.
-
-2. Create a branch: Use a descriptive name for your branch, such as feature/new-feature or bugfix/issue-xyz.
-
-```bash
-git checkout -b feature/new-feature
-```
-3. Make your changes: Implement your feature or bug fix.
-
-4. Commit your changes: Write a clear and concise commit message.
-```bash
-git commit -m "Add new feature: description"
-```
-
-5. Push to your branch:
-```bash
-git push origin feature/new-feature
-```
-
-6. Open a pull request: Go to the original repository and click the "New pull request" button. Fill out the PR template and submit it.
-
-We will review your pull request and provide feedback as needed. If you have any questions or need help, feel free to open an issue or reach out to us.
-
-Thank you for your contributions!
+Contributions are welcome! If you'd like to contribute to this project, please open an issue to discuss the changes you'd like to make or submit a pull request.
