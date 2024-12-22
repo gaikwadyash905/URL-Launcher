@@ -48,6 +48,5 @@ This Python project provides a graphical interface to load URLs from a text file
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE "Licence file") file for details.
 
-
 ## Contributing
-Contributions are welcome! If you'd like to contribute to this project, please open an issue to discuss the changes you'd like to make or submit a pull request.
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
