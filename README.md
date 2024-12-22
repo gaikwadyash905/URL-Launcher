@@ -28,7 +28,7 @@ This Python project provides a graphical interface to load URLs from a text file
 ## Usage
 1. Run the program:
   ```bash
-  python tkinter_open_urls.py
+  python url_launcher.py
   ```
 
 2. Follow these steps:
