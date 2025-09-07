@@ -18,7 +18,7 @@ This Python project provides a graphical interface to load URLs from a text file
 1. Clone the repository:
   ```bash
   git clone https://github.com/gaikwadyash905/URL-Launcher.git
-  cd tkinter_open_urls
+  cd URL-Launcher
   ```
 2. Install required modules:
   ```bash
